@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmaxiR
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning Networking
+- 🌱 I’m currently learning C#
 - 📫 How to reach me discord: d.r_01
 
 <!---
